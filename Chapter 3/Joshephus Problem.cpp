@@ -2,9 +2,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 using namespace std;
-//This is another fucking comment...
-//This is not working...
-//This is another working comment....
+
+
 struct node{
 	int item;
 	node* next;
